@@ -1,1 +1,16 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.conteiner1{
+    display: grid;
+    background-color:white;
+    height: 100%;
+    width: 100%;
+    grid-template-columns:;
+    grid-template-rows:; 
 
+    grid-template-areas: 
+                        "";
+}
