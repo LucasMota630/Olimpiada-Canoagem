@@ -44,8 +44,10 @@ footer{
 .verde1{
     background-color: #B5F8C3;
     grid-area: verde1;
+    border-radius: 20px;
 }
 .verde2{
     background-color: #B5F8C3;
     grid-area: verde2;
+    border-radius: 20px;
 }
