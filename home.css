@@ -7,10 +7,10 @@
 .conteiner1{
     display: grid;
     background-color:white;
-    height: 160vh;
+    height: 170vh;
     width: 100%;
     grid-template-columns:none;
-    grid-template-rows:45vh 100vh 25vh; 
+    grid-template-rows:55vh 100vh 25vh; 
 
     grid-template-areas: 
                         "header"
