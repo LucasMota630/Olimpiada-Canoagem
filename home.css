@@ -40,6 +40,12 @@ header{
     margin: auto;
     margin-top: 10vh;
 }
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
 main{
     background-color: #ffffff;
     grid-area: main;
