@@ -21,10 +21,10 @@
     background-color:white;
     height: 100%;
     width: 100%;
-    grid-template-columns:40fr 40fr;
-    grid-template-rows:45vh 100vh 25vh; 
-    gap: 20px;
-    padding: 10px;
+    grid-template-columns:35fr 35fr;
+    grid-template-rows:80vh 80vh; 
+    gap: 30px;
+    padding: 40px;
     grid-template-areas: 
                         "verde1 verde2"
                         ;
