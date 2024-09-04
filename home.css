@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
 }
+
 .conteiner1{
     display: grid;
     background-color:white;
@@ -32,6 +33,12 @@
 header{
     background-color: #B4F6FF;
     grid-area: header;
+
+}
+.logo{
+    display: flex;
+    margin: auto;
+    margin-top: 10vh;
 }
 main{
     background-color: #ffffff;
