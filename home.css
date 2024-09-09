@@ -22,7 +22,7 @@
     border-style: solid;
     width: 229px;
     text-align: center;
-    
+    box-shadow: -3px 5px   rgba(0, 0, 0, 0.2);
 }
 .opcoes li{
     display: inline;
@@ -80,9 +80,18 @@ header{
 }
 p{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+    padding-top: 20px;
 }
 h1{
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    padding-top: 20px;
+}
+.p{
+    margin:auto;
+    width: 700px;
 }
 main{
     background-color: #ffffff;
