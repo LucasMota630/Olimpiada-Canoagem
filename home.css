@@ -4,6 +4,44 @@
     padding: 0;
 }
 
+.opcoes{
+    padding: 20px;
+}
+.opcoes a{
+    text-decoration: none;
+    color:hsl(0, 0%, 0%);
+    
+    
+}
+.filho{
+    background-color: #B5F8C3;  
+    padding: 15px;
+    border-radius: 15px;
+    border-width: 3px;
+    border-color: #686464 ;
+    border-style: solid;
+    width: 229px;
+    text-align: center;
+    
+}
+.opcoes li{
+    display: inline;
+    font-size: 20px;
+    margin-left: 5px;
+}
+.container{
+    display:  flex;
+    align-items: center;
+    justify-content: space-evenly;
+    
+}
+.filho{
+    margin: 15px;
+}
+
+
+
+
 .conteiner1{
     display: grid;
     background-color:white;
